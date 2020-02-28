@@ -1,6 +1,6 @@
 # M-RoQ software
 
-The M-RoQ (Manipulated-RoQ) software was developed to manipulates the flooding of the Hping3 software. The aim is that the      
+The M-RoQ (Manipulated-RoQ) software was developed to manipulates the traffic of the Hping3 software sent towards the victim. The aim is that the sending traffic can act like the RoQ attack concept mode.       
 
 #include <stdio.h><br>
 #include <string.h><br>
